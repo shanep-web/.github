@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-- [Course Webpage](https://github.io/shanep-web)
+- [Course Webpage](https://shanep-web.github.io)
